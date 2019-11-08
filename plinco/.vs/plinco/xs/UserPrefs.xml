@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A8A5E991-760D-81E3-A987-408B0750E36C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/dropper.cs">
+    <Files>
+      <File FileName="Assets/dropper.cs" Line="43" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="plinco" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="dropper.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="38b7cc1a-70b9-4286-a2a2-2edd38399a91" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
